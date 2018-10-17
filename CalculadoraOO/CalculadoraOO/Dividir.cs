@@ -10,13 +10,13 @@ namespace CalculadoraOO
     {
         public Dividir()
         {
-            Console.WriteLine("Objeto dividir criado.");
+            Console.WriteLine("Objeto Dividir criado.");
         }
 
         public Dividir(int num1, int num2)
         {
             int total = num1 / num2;
-            Console.WriteLine("Resultado da Dvivisão:" + total);
+            Console.WriteLine("Resultado da Divisão:" + total);
         }
 
         public void MultEterno()
