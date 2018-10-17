@@ -16,12 +16,18 @@ namespace CalculadoraOO
         public Dividir(int num1, int num2)
         {
             int total = num1 / num2;
-            Console.WriteLine("Resultado da Dvivisão:" + total );
-    }
-    
+            Console.WriteLine("Resultado da Dvivisão:" + total);
+        }
+
+        public void MultEterno()
+        {
+         
+   
+
+        }
 
 
-    
+
 
     }
 }
